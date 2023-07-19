@@ -35,4 +35,4 @@ The bird generally falls down due to gravity, we have to use 'space' or 'mouse' 
 
 ![126](https://user-images.githubusercontent.com/103520992/163021101-41c2821f-33c8-472d-928a-55f93b9eb9dc.png)
 
-##You can try the game just by cloning this project
+
